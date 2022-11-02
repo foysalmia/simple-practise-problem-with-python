@@ -1,0 +1,2 @@
+# Problem Statement
+Extend the program (problem 4) written for the previous exercise so that as new contacts are added, the program checks for duplicate names and numbers. If the new contact’s name is already in the database, the message “This person is already entered.” should appear. If the telephone number is already in the database, the program should display “This person’s telephone number is already in the database. This could be an error, or a second contact at the same company. Add anyway?” If the user enters “Y”, the contact is added.
